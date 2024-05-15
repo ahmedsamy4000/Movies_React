@@ -1,0 +1,68 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": "823464",
+      "userId": "2",
+      "adult": false,
+      "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 2119.822,
+      "poster_path": "/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+      "release_date": "2024-03-27",
+      "title": "Godzilla x Kong: The New Empire 2022",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": "300"
+    },
+    {
+      "id": "1096197",
+      "userId": "2",
+      "adult": false,
+      "backdrop_path": "/4woSOUD0equAYzvwhWBHIJDCM88.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides.",
+      "popularity": 2119.822,
+      "poster_path": "/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
+      "release_date": "2024-03-27",
+      "title": "No Way Up 2022",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 477
+    },
+    {
+      "id": "929590",
+      "userId": "2",
+      "adult": false,
+      "backdrop_path": "/uv2twFGMk2qBdyJBJAVcrpRtSa9.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "original_language": "en",
+      "original_title": "Civil War",
+      "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+      "popularity": 723.121,
+      "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "release_date": "2024-04-10",
+      "title": "Civil War",
+      "video": false,
+      "vote_average": 7.399,
+      "vote_count": 472
+    }
+  ]
+}

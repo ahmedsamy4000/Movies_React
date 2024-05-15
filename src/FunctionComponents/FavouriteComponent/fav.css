@@ -1,0 +1,26 @@
+.maincard{
+    height: 100%;
+    border-radius: 20px !important;
+    border-color: black !important;
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: white !important;
+    font-size: 20px;
+
+}
+.movie{
+    padding: 5px;
+}
+
+.divgroup{
+    display: flex;
+    flex-direction: column;
+}
+
+.typee{
+    color: white !important;
+}
+
+.btn{
+    background-color: red !important;
+    color: white !important;
+}

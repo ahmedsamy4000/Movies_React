@@ -1,0 +1,35 @@
+
+.pagee{
+  position: relative;
+
+}
+.backGround{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  z-index: -1;
+background-image: url("https://img.freepik.com/premium-photo/storm-sky-with-lightning-bolt-coming-out-it_1053-2173.jpg");
+}
+
+
+#video-container {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: 100vh;
+  z-index: -1; /* Ensure the video is behind everything */
+}
+
+
+
+/* Adjust the z-index of BrowserRouter so it appears on top of the video */
+BrowserRouter {
+  position: relative;
+  z-index: 1;
+}
